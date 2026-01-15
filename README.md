@@ -50,14 +50,7 @@ A feature-rich Android inventory management application built with Kotlin and po
 
 ## 📸 Screenshots
 
-> **Note**: Add screenshots of your app here to showcase the interface
-
-```
-screenshots/
-├── main_dashboard.png
-├── stock_management.png
-├── sales_screen.png
-└── reports_analytics.png
+https://njbharoyzzqdkhhpcccg.supabase.co/storage/v1/object/public/ss/1.jpeg
 ```
 
 ## 🚀 Getting Started

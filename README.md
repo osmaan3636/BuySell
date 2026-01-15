@@ -201,6 +201,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohammad Osman**
 - GitHub: [@osmaan3636](https://github.com/osmaan3636)
+- Email: acfosman353636a@gmail.com
+- WhatsApp: +8801857353636
 
 ## 🙏 Acknowledgments
 

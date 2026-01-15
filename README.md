@@ -50,7 +50,8 @@ A feature-rich Android inventory management application built with Kotlin and po
 
 ## 📸 Screenshots
 
-https://njbharoyzzqdkhhpcccg.supabase.co/storage/v1/object/public/ss/1.jpeg
+![BuySell Screenshot 1](https://njbharoyzzqdkhhpcccg.supabase.co/storage/v1/object/public/ss/1.jpeg)
+
 ```
 
 ## 🚀 Getting Started

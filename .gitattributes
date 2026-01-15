@@ -1,0 +1,38 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Android
+*.apk binary
+*.ap_ binary
+*.dex binary
+
+# Gradle
+*.jar binary
+*.class binary
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+
+# Kotlin
+*.kt text
+*.kts text
+
+# XML
+*.xml text
+
+# JSON
+*.json text
+
+# Properties
+*.properties text
+
+# Markdown
+*.md text
+
+# Git config
+.gitignore text
+.gitattributes text
